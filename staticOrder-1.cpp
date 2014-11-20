@@ -1,7 +1,7 @@
 /*
 ** BigCrunch data compression library
 ** (C) 2010 Arkanosis
-** arkanosis@gmail.com
+** jroquet@arkanosis.net
 **
 ** Released under the MIT/X11 license
 */
